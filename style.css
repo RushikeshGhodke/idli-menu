@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100&family=Raleway:wght@600;700&display=swap');
+/* font-family: 'Inter', sans-serif;
+font-family: 'Raleway', sans-serif; */
+
+
+body {
+    background-color: black;
+    font-family: 'Inter', sans-serif;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+.menu {
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 17px;
+    background-color: #ACCEB5;
+    max-width: 500px;
+}
+
+img {
+    width: 92%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 12.130px;
+    margin-bottom: 12.130px;
+    border: #D0EBDA 6px solid;
+}
+
+.texts {
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 25px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+    font-size: 40px;
+    margin: 10px auto 10px auto;
+
+}
+
+.title {
+    display: inline-block;
+    width: 75%;
+}
+
+.price {
+    display: inline-block;
+    width: 25%;
+    text-align: right;
+}
+
+.item {
+    height: 35px;
+}
